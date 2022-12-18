@@ -1,29 +1,31 @@
 # JSP 개요
 
-### 서버 측 스크립트 언어 개념
-- 서버 측에서 즉시 처리하는 것을 말합니다.
+<br>
+
+### 　　서버 측 스크립트 언어 개념
+　　- 서버 측에서 즉시 처리하는 것을 말합니다.
 
 <br>
 
-### WAS 개념
-- 웹 서버로부터 오는 동적인 요청을 처리하는 서버를 말합니다.
+### 　　WAS 개념
+　　- 웹 서버로부터 오는 동적인 요청을 처리하는 서버를 말합니다.
 
 <br>
 
-### JSP 구성요소
-1. 스크립트(Script) 요소
+### 　　JSP 구성요소
+　　1. 스크립트(Script) 요소
 
-2. 지시어 (디렉티브:directive)
+　　2. 지시어 (디렉티브:directive)
 
-3. 내장객체 (Implicit Object)
+　　3. 내장객체 (Implicit Object)
 
-4. 액션태그(Action Tag)
+　　4. 액션태그(Action Tag)
 
-5. 표현언어 (Expression Language)
+　　5. 표현언어 (Expression Language)
 
-6. 사용자 정의 태그, JSTL
+　　6. 사용자 정의 태그, JSTL
 
-<br>
+<br><br>
 
 # 코드 및 실행 결과
 
@@ -37,6 +39,8 @@
 ### 실행 결과
 ![image](https://user-images.githubusercontent.com/104752202/170403563-d9bbf2e5-fcdf-494a-8934-ddba8d05c957.png)
 
+<br>
+
 ## EXAMPLE 2
 
 ### 코드
@@ -46,6 +50,8 @@
 
 ### 실행 결과
 ![image](https://user-images.githubusercontent.com/104752202/170403715-dc716dd6-3294-46de-81aa-aaaf5a615942.png)
+
+<br>
 
 ## EXAMPLE 4
 
@@ -57,6 +63,8 @@
 ### 실행 결과
 ![image](https://user-images.githubusercontent.com/104752202/170408430-6624bcb0-8138-45fa-b11b-ac7da201b7f7.png)
 
+<br>
+
 ## EXAMPLE 4-1
 
 ### 코드
@@ -67,6 +75,7 @@
 ### 실행 결과
 ![image](https://user-images.githubusercontent.com/104752202/170403896-6fcadd21-6c9a-4dc2-86a1-376122b54e8e.png)
 
+<br>
 
 ## EXAMPLE 5
 
@@ -78,6 +87,7 @@
 ### 실행 결과
 ![image](https://user-images.githubusercontent.com/104752202/170404474-34f661d2-b738-4584-aa80-cbc7a08e36b0.png)
 
+<br>
 
 ## EXAMPLE 5-1
 
@@ -89,6 +99,8 @@
 ### 실행 결과
 ![image](https://user-images.githubusercontent.com/104752202/170404949-4d11bf63-fbbb-4168-a399-2e80b2467e5b.png)
 
+<br>
+
 ## EXAMPLE 6
 
 ### 코드
@@ -99,6 +111,8 @@
 ### 실행 결과
 ![image](https://user-images.githubusercontent.com/104752202/170405597-1c147098-fdff-4b83-a6fa-e9b8df9395b1.png)
 
+<br>
+
 ## EXAMPLE 7
 
 ### 코드
@@ -108,3 +122,5 @@
 
 ### 실행 결과
 ![image](https://user-images.githubusercontent.com/104752202/170407021-b581fa4a-829c-4ffa-8f14-215894c960cc.png))
+
+<br>
