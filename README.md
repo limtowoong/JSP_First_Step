@@ -2,28 +2,28 @@
 
 <br>
 
-### 　　서버 측 스크립트 언어 개념
-　　- 서버 측에서 즉시 처리하는 것을 말합니다.
+### 　서버 측 스크립트 언어 개념
+　　 - 서버 측에서 즉시 처리하는 것을 말합니다.
 
 <br>
 
-### 　　WAS 개념
-　　- 웹 서버로부터 오는 동적인 요청을 처리하는 서버를 말합니다.
+### 　WAS 개념
+　　 - 웹 서버로부터 오는 동적인 요청을 처리하는 서버를 말합니다.
 
 <br>
 
-### 　　JSP 구성요소
-　　1. 스크립트(Script) 요소
+### 　JSP 구성요소
+　　 1. 스크립트(Script) 요소
 
-　　2. 지시어 (디렉티브:directive)
+　　 2. 지시어 (디렉티브:directive)
 
-　　3. 내장객체 (Implicit Object)
+　　 3. 내장객체 (Implicit Object)
 
-　　4. 액션태그(Action Tag)
+　　 4. 액션태그(Action Tag)
 
-　　5. 표현언어 (Expression Language)
+　　 5. 표현언어 (Expression Language)
 
-　　6. 사용자 정의 태그, JSTL
+　 　6. 사용자 정의 태그, JSTL
 
 <br><br>
 
